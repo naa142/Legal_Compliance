@@ -1,0 +1,10 @@
+streamlit
+openai
+cohere
+psycopg2-binary
+python-docx
+PyMuPDF
+pytesseract
+Pillow
+pdf2image
+langdetect
